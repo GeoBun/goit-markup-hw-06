@@ -974,7 +974,6 @@ body {
     .modal-form-option{
         display: flex;
         flex-direction: column;
-        width: 448px;
     }
 
     .contact-details-head{
@@ -1003,7 +1002,7 @@ body {
 
     .options-item{
         position: relative;
-        width: 100%;
+        width: 448px;
         height: 40px;
     }
 
